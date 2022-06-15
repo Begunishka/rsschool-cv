@@ -1,5 +1,5 @@
 # Andrey Zelenkov
-### Junior Frontend Developer
+### Junior Front-End Developer
 
 ---
 
