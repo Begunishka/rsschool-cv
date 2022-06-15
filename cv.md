@@ -30,6 +30,14 @@ In progress...
 
 ---
 
+### Code
+
+```
+function sum(a, b) { return a + b; }
+```
+
+---
+
 ### Education and Courses
 
 - Tver institute of ecology and law , Master’s degree
